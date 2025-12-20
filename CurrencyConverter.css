@@ -1,0 +1,25 @@
+
+body
+{
+  background-image: url("CurrencyConverter.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.navbar{
+    color: white; font-family: cursive; font-size: xxx-large; text-align: center;
+}
+
+
+
+.form-box{
+width: 100%;
+max-width: 30rem;
+border-radius: 5rem;
+}
+
+.select-container img
+{
+    width: 2.5rem;
+}
+
